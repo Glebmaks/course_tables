@@ -1,0 +1,21 @@
+{
+  "records": [
+    {"value_id":"R4C2","row_path":["R4C1"],"column_path":["R1C2","R2C2"],"unit_id":"R3C2"},
+    {"value_id":"R4C3","row_path":["R4C1"],"column_path":["R1C2","R2C3"],"unit_id":"R3C2"},
+    {"value_id":"R4C4","row_path":["R4C1"],"column_path":["R1C4","R2C4"],"unit_id":"R3C2"},
+    {"value_id":"R4C5","row_path":["R4C1"],"column_path":["R1C4","R2C5"],"unit_id":"R3C2"},
+    {"value_id":"R5C2","row_path":["R5C1"],"column_path":["R1C2","R2C2"],"unit_id":"R3C2"},
+    {"value_id":"R5C3","row_path":["R5C1"],"column_path":["R1C2","R2C3"],"unit_id":"R3C2"},
+    {"value_id":"R5C4","row_path":["R5C1"],"column_path":["R1C4","R2C4"],"unit_id":"R3C2"},
+    {"value_id":"R5C5","row_path":["R5C1"],"column_path":["R1C4","R2C5"],"unit_id":"R3C2"},
+    {"value_id":"R6C2","row_path":["R6C1"],"column_path":["R1C2","R2C2"],"unit_id":"R3C2"},
+    {"value_id":"R6C3","row_path":["R6C1"],"column_path":["R1C2","R2C3"],"unit_id":"R3C2"},
+    {"value_id":"R6C4","row_path":["R6C1"],"column_path":["R1C4","R2C4"],"unit_id":"R3C2"},
+    {"value_id":"R6C5","row_path":["R6C1"],"column_path":["R1C4","R2C5"],"unit_id":"R3C2"},
+    {"value_id":"R7C2","row_path":["R7C1"],"column_path":["R1C2","R2C2"],"unit_id":"R3C2"},
+    {"value_id":"R7C3","row_path":["R7C1"],"column_path":["R1C2","R2C3"],"unit_id":"R3C2"},
+    {"value_id":"R7C4","row_path":["R7C1"],"column_path":["R1C4","R2C4"],"unit_id":"R3C2"},
+    {"value_id":"R7C5","row_path":["R7C1"],"column_path":["R1C4","R2C5"],"unit_id":"R3C2"}
+  ],
+  "ignored": [{"cell_id":"R1C1","reason":"Axis title describing the left column, rather than a category identifying an individual record."}]
+}
